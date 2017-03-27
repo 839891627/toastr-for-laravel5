@@ -1,0 +1,17 @@
+{
+    "name": "arvin/toastr-for-laravel",
+    "description": "toastr.js for laravel5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "arvin",
+            "email": "arvin.cao@sunallies.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Arvin\\Toastr": "src/"
+        }
+    }
+}
